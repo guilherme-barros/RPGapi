@@ -25,15 +25,5 @@ namespace RpgApi.Models
 
         public string? Perfil { get; set; }
         public string? Email { get; set; }
-
-
-
-
-
-
-
-
-
-
     }
 }
