@@ -18,6 +18,6 @@ namespace RpgApi.Models
         [NotMapped]
         public List<int>? ListaIdPersonagens { get; set; }
         [NotMapped]
-        public List<string> Resultados { get; set; }
+        public List<string>? Resultados { get; set; }
     }
 }
